@@ -11,5 +11,6 @@ public class Print_user_Input
     public static void main(String[] args)
     {
         method(new Scanner(System.in));  
+        
     }
 }
